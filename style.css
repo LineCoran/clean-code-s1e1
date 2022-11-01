@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .more-inf {
+.header .header__link {
   font-family: "fantasy", cursive;
 }
 
@@ -34,13 +34,13 @@ body {
   margin: 0 auto 0;
 }
 
-.task {
+.task-wrapper__task {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-wrapper__task-wrapper {
   display: flex;
 }
 
